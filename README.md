@@ -2,6 +2,6 @@
 
 Repo for code written for OOP class, all code is written in Java.
 
-## Compiler
+## JDK version
 
 * JDK 17.0.6
